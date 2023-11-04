@@ -1,3 +1,4 @@
+i'm
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -7,13 +8,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['60105171485', 'RIZZMANBOT', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['60105171485','60105171485'] 
+global.prems = ['60105171485', '60105171485', '60145171485']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
